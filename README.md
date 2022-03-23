@@ -1,8 +1,10 @@
 # Android Development with Kotlin
 
-Latest update:2022/03/16, Lesson 6 finished.
+Latest update:2022/03/23, Lesson 7 finished.
 
 ## Index
+
+[Lab04](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Lab04)
 
 [Lab03](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Lab03)
 
