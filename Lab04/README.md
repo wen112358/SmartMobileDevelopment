@@ -26,11 +26,10 @@ screenshot & core code screenshots
 
 ## 3. Practice 2
 
-recording & core code screenshots
+[recording](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Lab04/practice2/practice2-recording.mp4) & core code screenshots
 
-<video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="https://github.com/wen112358/SmartMobileDevelopment/blob/main/Lab04/practice1/practice1-recording.mp4" type="video/mp4">
-</video>
+![](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Lab04/practice2/practice2-recording.gif)
+
 
 ![](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Lab04/practice2/2-1.png)
 
@@ -44,11 +43,10 @@ recording & core code screenshots
 
 ## 4. Homework
 
-recording & core code screenshots
+[recording](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Lab04/homework/homework-recording.mp4) & core code screenshots
 
-<video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="https://github.com/wen112358/SmartMobileDevelopment/blob/main/Lab04/homework/homework-recording.mp4" type="video/mp4">
-</video>
+![](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Lab04/homework/homework-recording.gif)
+
 
 ![](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Lab04/homework/3-1.png)
 
