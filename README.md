@@ -1,8 +1,10 @@
 # Android Development with Kotlin
 
-Latest update:2022/04/21, Lab07 finished.
+Latest update:2022/04/27, Lab08 finished.
 
 ## Index
+
+[Lab08](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Lab08)
 
 [Lab07](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Lab07)
 
