@@ -1,8 +1,10 @@
 # Android Development with Kotlin
 
-Latest update:2022/05/10, Lab10 finished.
+Latest update:2022/05/23, **Iteration** **1** finished.
 
 ## Index
+
+[Iteration1](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Iteration1)
 
 [Lab10](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Lab10)
 
