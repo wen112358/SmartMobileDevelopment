@@ -1,0 +1,56 @@
+<view class="pyg_index">
+    <SearchInput></SearchInput>
+
+    <view class="index_swiper">
+        <swiper autoplay indicator-dots circular>
+            <swiper-item wx:for="{{swiperList}}" wx:key="key">
+                <navigator>
+                    <image mode="widthFix" src="{{item}}" />
+                </navigator>
+            </swiper-item>
+        </swiper>
+    </view>
+
+    <view class="index_cate">
+        <navigator url="/pages/category/category" open-type="switchTab">
+            <image mode="widthFix" src="/images/cat.png"></image>
+        </navigator>
+        <navigator url="/pages/category/category" open-type="switchTab">
+            <image mode="widthFix" src="/images/special.png"></image>
+        </navigator>
+        <navigator url="/pages/category/category" open-type="switchTab">
+            <image mode="widthFix" src="/images/kill.png"></image>
+        </navigator>
+        <navigator url="/pages/category/category" open-type="switchTab">
+            <image mode="widthFix" src="/images/new.png"></image>
+        </navigator>
+    </view>
+
+
+    <view class="index_floor">
+    <view class="floor_group"
+    wx:for="{{floorList}}"
+    wx:for-item="item1"
+    wx:for-index="index1"
+    wx:key="floor_title"
+    >
+      <view class="floor_title">
+        <image mode="widthFix" src="{{item1.floor_title.image_src}}"></image>
+      </view>
+      <view class="floor_list">
+        <navigator 
+        wx:for="{{item1.product_list}}"
+        wx:for-item="item2"
+        wx:for-index="index2"
+        wx:key="name"
+        url="/pages/goods_list/goods_list?query=服饰"
+        >
+        <image mode="{{index2===0?'widthFix':'scaleToFill'}}" src="{{item2.image_src}}"></image>
+      </navigator>
+      </view>
+    </view>
+  </view>
+
+    
+
+</view>

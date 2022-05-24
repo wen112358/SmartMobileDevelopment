@@ -2,13 +2,13 @@
 
 ## QRcode
 
-体验版二维码（目前更新至迭代1）
+体验版二维码（目前更新至迭代2）
 
 ![](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Iteration1/QRcode.jpg)
 
 ## Video
 
-[介绍视频](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Iteration1/video.mp4)
+[介绍视频(百度云链接)](https://pan.baidu.com/s/1-_Lz3cnzebGz27wycvva6A?pwd=8mhn)
 
 ## Documentation
 
