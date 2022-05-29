@@ -23,3 +23,7 @@ wxdc9f5deef99bb72c
 ## 源代码
 
 [源代码](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Iteration4/code/)
+
+## 提交比赛截图
+
+[提交成功截图](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Iteration4/submit_screenshot.png)
