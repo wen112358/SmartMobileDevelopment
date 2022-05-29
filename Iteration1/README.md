@@ -2,7 +2,7 @@
 
 ## QRcode
 
-体验版二维码（目前更新至迭代3）
+体验版二维码（目前更新至迭代4）
 
 ![](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Iteration1/QRcode.jpg)
 
