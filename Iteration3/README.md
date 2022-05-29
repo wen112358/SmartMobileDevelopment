@@ -2,7 +2,7 @@
 
 ## QRcode
 
-体验版二维码（目前更新至迭代3）
+体验版二维码（目前更新至迭代4）
 
 ![](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Iteration3/QRcode.jpg)
 
@@ -12,7 +12,9 @@
 
 ## Documentation
 
-[介绍文档](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Iteration3/introduction_document.pdf)
+[介绍文档](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Iteration3/introduction_document.md)
+
+[pdf版介绍文档](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Iteration3/introduction_document.pdf)
 
 ## 小程序id
 
