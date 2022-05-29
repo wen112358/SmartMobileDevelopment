@@ -14,6 +14,8 @@
 
 [介绍文档](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Iteration2/introduction_document.md)
 
+[pdf版介绍文档](https://github.com/wen112358/SmartMobileDevelopment/blob/main/Iteration2/introduction_document.pdf)
+
 ## 小程序id
 
 wxdc9f5deef99bb72c
